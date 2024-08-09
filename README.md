@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ## About me
 
+I started my journey of learning how to code in 2022 with The Odin Project. 
+Since then, I have received a degree in Computer Science from Western Governors University
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,nodejs,react,npm,mongodb)](https://skillicons.dev)
+
